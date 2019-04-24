@@ -43,7 +43,7 @@ html {
     background-color: rgba(0, 0, 0, .86)
 }
 
-.paper-icon-button-light:focus {
+.paper-icon-button-light:active {
     color: #52b54b;
     background-color: rgba(82, 181, 75, .2)
 }
@@ -54,8 +54,8 @@ html {
     color: rgba(255, 255, 255, .87)
 }
 
-.fab:focus,
-.raised:focus {
+.fab:active,
+.raised:active {
     background: #383838
 }
 
@@ -64,7 +64,7 @@ html {
     color: #fff
 }
 
-.button-submit:focus {
+.button-submit:active {
     background: #5EC157;
     color: #fff
 }
@@ -263,7 +263,7 @@ html {
     border-color: #52b54b
 }
 
-.emby-checkbox:focus+span+.emby-checkbox-focushelper {
+.emby-checkbox:active+span+.emby-checkbox-focushelper {
     background-color: rgba(82, 181, 75, .26)
 }
 
@@ -299,7 +299,7 @@ html {
     color: #fff
 }
 
-.emby-button-focusscale:focus {
+.emby-button-focusscale:active {
     background: #52b54b;
     color: #fff
 }

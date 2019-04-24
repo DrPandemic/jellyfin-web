@@ -58,12 +58,12 @@ html {
     background-color: #f0f0f0
 }
 
-.paper-icon-button-light:focus {
+.paper-icon-button-light:active {
     color: #52B54B;
     background-color: rgba(82, 181, 75, .2)
 }
 
-.skinHeader-withBackground .paper-icon-button-light:focus {
+.skinHeader-withBackground .paper-icon-button-light:active {
     color: #fff;
     background-color: rgba(255, 255, 255, .2)
 }
@@ -78,8 +78,8 @@ html {
     color: inherit
 }
 
-.fab:focus,
-.raised:focus {
+.fab:active,
+.raised:active {
     background: #ccc;
     color: inherit
 }
@@ -89,7 +89,7 @@ html {
     color: #fff
 }
 
-.button-submit:focus {
+.button-submit:active {
     background: #5EC157;
     color: #fff
 }
@@ -292,7 +292,7 @@ html {
     color: #fff
 }
 
-.emby-checkbox:focus+span+.emby-checkbox-focushelper {
+.emby-checkbox:active+span+.emby-checkbox-focushelper {
     background-color: rgba(82, 181, 75, .26)
 }
 
@@ -328,7 +328,7 @@ html {
     color: #fff
 }
 
-.emby-button-focusscale:focus {
+.emby-button-focusscale:active {
     background: #52B54B;
     color: #fff
 }

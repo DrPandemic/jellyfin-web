@@ -82,7 +82,7 @@
 }
 
 /* Commenting this out - set by theme */
-/*.emby-checkbox:focus + span + .emby-checkbox-focushelper {
+/*.emby-checkbox:active + span + .emby-checkbox-focushelper {
     background-color: rgba(82, 181, 75, 0.26);
 }*/
 
